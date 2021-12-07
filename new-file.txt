@@ -11,5 +11,3 @@ again added this line from github.
 main branch end
 =======
 small edit from main branch in github
-## modified in new branch
- new-branch
